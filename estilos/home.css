@@ -115,3 +115,34 @@ text-align: center;
 .register-link p a:hover{
     text-decoration: underline;
 }
+
+/*Celular*/ 
+
+@media screen and (max-width: 480px) {
+    .wrapper {
+        width: 95%;
+        padding: 10% 12%;
+    }
+    .wrapper h1 {
+        font-size: 5vw;
+    }
+    .input-box input {
+        font-size: 4vw;
+        padding: 8% 10% 8% 8%;
+    }
+    .input-box i {
+        font-size: 4.5vw;
+    }
+    .wrapper .remember-forgot {
+        font-size: 3vw;
+    }
+    .wrapper .register-link {
+        font-size: 3vw;
+    }
+}
+
+
+
+
+
+
