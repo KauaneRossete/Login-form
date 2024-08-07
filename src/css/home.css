@@ -14,7 +14,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url("/src/image/mageretta.jpg") no-repeat;
+    background: url("../image/mageretta.jpg") no-repeat;
     background-size: cover;
     background-position: center;
 }
